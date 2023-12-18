@@ -213,5 +213,6 @@ terraform init
 terraform plan 
 terraform apply 
 ```
+<img width="1190" alt="Screenshot 2023-12-15 at 6 55 26 PM" src="https://github.com/oluakinbinu/ec2_module_intro/assets/154087956/167aa7e4-587b-4ee5-b147-16353f409b9e">
 
 
